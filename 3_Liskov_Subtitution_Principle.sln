@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Liskov_Subtitution_Principle", "3_Liskov_Subtitution_Principle\3_Liskov_Subtitution_Principle.csproj", "{96D9A6DB-9CFF-4CD8-B444-2BE5CB0CDDC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D9A6DB-9CFF-4CD8-B444-2BE5CB0CDDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D9A6DB-9CFF-4CD8-B444-2BE5CB0CDDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D9A6DB-9CFF-4CD8-B444-2BE5CB0CDDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D9A6DB-9CFF-4CD8-B444-2BE5CB0CDDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB3A55A-46A1-4FDB-AE1F-C81D5ABFB53F}
+	EndGlobalSection
+EndGlobal
